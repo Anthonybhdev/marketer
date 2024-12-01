@@ -99,6 +99,12 @@ a:hover {
   }
 }
 
+@media (max-width: 767px) {
+    .hero .hero-title {
+        display: none;
+    }
+}
+
 .overlay-mf {
   background-color: #0078ff;
 }
